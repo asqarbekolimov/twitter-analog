@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/twitter-analog/static/css/main.c8c3b071.css",
+    "main.js": "/twitter-analog/static/js/main.ab327e75.js",
+    "index.html": "/twitter-analog/index.html",
+    "main.c8c3b071.css.map": "/twitter-analog/static/css/main.c8c3b071.css.map",
+    "main.ab327e75.js.map": "/twitter-analog/static/js/main.ab327e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8c3b071.css",
+    "static/js/main.ab327e75.js"
+  ]
+}
